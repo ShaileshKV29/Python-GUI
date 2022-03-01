@@ -1,7 +1,4 @@
 from tkinter import *
-from turtle import width
-
-from matplotlib.pyplot import text
 
 root = Tk()
 root.geometry("400x300")
