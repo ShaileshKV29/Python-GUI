@@ -10,6 +10,8 @@ img = ImageTk.PhotoImage(Image.open("Basics/Gojo.jfif"))
 lbl = Label(root, image=img)
 lbl.pack()
 
+
+
 exit_btn = Button(root, text="Exit Program", command=root.quit)
 exit_btn.pack()
 
